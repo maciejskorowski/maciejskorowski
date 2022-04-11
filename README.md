@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHOLAKKK
 - 👀 I’m interested in PROGRAMING
-- 🌱 I’m currently learning JAWASKRYPTY
+- 🌱 I’m currently learning JAVA SCRIPT
 - 📫 How to reach me maciejskorowski41@gmail.com
 
 
