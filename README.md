@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @CHOLAKKK
-- 👀 I’m interested in PROGRAMING
-- 🌱 I’m currently learning JAVA SCRIPT
+- 👋 Hi, I’m maciejskorowski
+- 🌱 I'm currently learning Blender and different programing languages
 - 📫 How to reach me maciejskorowski41@gmail.com
 
 
